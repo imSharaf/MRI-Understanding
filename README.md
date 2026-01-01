@@ -9,4 +9,4 @@ So based on that the model is given. It was an experimental project.
 
 Code is based on kaggle. Fix your path. The dataset link https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data  
 Kaggle Notebook link https://www.kaggle.com/code/ezsharaf/trust-mri-99-16  
-Model link kaggle kernels output ezsharaf/trust-mri-99-16 -p /path/to/dest
+Model is provided in the final link's output section. 
